@@ -1,4 +1,4 @@
-Date: 10/5/23 Thursday
+**Date: 10/5/23 Thursday**
 
 How does Meta Quest tracking works?
 controllers - constillation tracking
