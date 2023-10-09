@@ -1,4 +1,4 @@
-Open Unity,
+Open Unity Hub,
 First goto Windows > Package manager > Oculus download and import it.
 Then it will show a tab on the top as Oculus.
 click it Oculus > Tools > project setup tool.
