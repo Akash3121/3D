@@ -9,3 +9,9 @@ Eye tracking - Quest has IR sensing/ sendign IR into eyes to get the movement of
 **Date: 10/10/23 Tuesday**
 What makes 3D interaction difficult?
  - 8 things in slides, out of which lack of standards is the major one.
+
+Universal 3D Interaction Tasks in 3D:
+1) Object Interaction:
+    Selection & Manuplation comes under this.
+
+**Selection**
