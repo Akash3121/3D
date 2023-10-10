@@ -5,3 +5,5 @@ controllers - constillation tracking
 Inertial measurement inside controllers to track rotation
 
 Eye tracking - Quest has IR sensing/ sendign IR into eyes to get the movement of eyes, problem with having glasses i.e., 4 eyes
+
+**Date: 10/10/23 Tuesday**
