@@ -18,3 +18,4 @@ Universal 3D Interaction Tasks in 3D:
 
 **Manuplation**
 
+Selection & Manuplation Tasks:
