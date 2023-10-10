@@ -21,3 +21,10 @@ Universal 3D Interaction Tasks in 3D:
 Selection & Manuplation Tasks:
 - Canonical Tasks
     Selection, positioning, Rotating, Scaling
+
+Selection & Manuplation 
+
+Grips:
+
+Clutching:
+    when we use mouse we face this, when we ran out of space in physical world we lift the mouse and reset i.e., put it in the center.
