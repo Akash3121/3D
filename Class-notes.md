@@ -22,7 +22,7 @@ Selection & Manuplation Tasks:
 - Canonical Tasks
     Selection, positioning, Rotating, Scaling
 
-Selection & Manuplation 
+Selection & Manuplation Techniques:
 
 Grips:
 
