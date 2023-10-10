@@ -19,3 +19,5 @@ Universal 3D Interaction Tasks in 3D:
 **Manuplation**
 
 Selection & Manuplation Tasks:
+- Canonical Tasks
+    Selection, positioning, Rotating, Scaling
