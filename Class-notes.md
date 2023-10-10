@@ -36,4 +36,5 @@ Classification Metaphors:
 
 Grasping - Go-Go Technique
     Inspector gadget - old american cartoon - gogo gadget
+    This is an arm extension technique.
     
