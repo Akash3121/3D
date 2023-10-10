@@ -8,3 +8,4 @@ Eye tracking - Quest has IR sensing/ sendign IR into eyes to get the movement of
 
 **Date: 10/10/23 Tuesday**
 What makes 3D interaction difficult?
+ - 8 things in slides, out of which lack of standards is the major one.
