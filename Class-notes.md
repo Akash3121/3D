@@ -38,3 +38,6 @@ Grasping - Go-Go Technique
     Inspector gadget - old american cartoon - gogo gadget
     This is an arm extension technique.
     Ex: Hand moves in the 3D to far to get an object, in physical world user needs not to move that distance to get the object, only the hand moves, it's like an hand extension.
+
+    Enhancements: 
+        - PRISM
