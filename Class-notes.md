@@ -42,7 +42,3 @@ Grasping - Go-Go Technique
     Enhancements: 
         - PRISM
         MOving the controller in same velocity as the obects moving in 3D, so that we can control
-
-Testing in progress about underline:
-<u>test1</u>
-<ins>test2</ins>
