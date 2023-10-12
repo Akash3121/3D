@@ -42,3 +42,8 @@ Grasping - Go-Go Technique
     Enhancements: 
         - PRISM
         Moving the controller in same velocity as the obects moving in 3D, so that we can control
+
+**Date: 10/12/2023 Thursday** 
+
+***LAB***
+
