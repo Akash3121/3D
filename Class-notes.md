@@ -62,3 +62,4 @@ Assignment 2 - updates:
 4-Rhandanchordone
 	do lefthandcontroller
 5-3objects needs to be grabbable
+![Alt text](image.png)
