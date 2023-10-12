@@ -48,3 +48,6 @@ Grasping - Go-Go Technique
 ***LAB***
 
 Creating a Light Saber, in Unity.
+
+In assignment add sound/audio when cube destroys, 
+    Prof suggested to try the sound effect on the blade.
