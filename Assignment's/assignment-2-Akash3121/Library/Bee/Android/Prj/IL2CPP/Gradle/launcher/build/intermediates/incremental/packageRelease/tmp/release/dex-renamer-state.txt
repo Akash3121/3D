@@ -1,0 +1,4 @@
+#Thu Oct 12 16:28:30 CDT 2023
+base.0=C\:\\Users\\User\\Documents\\GitHub\\assignment-2-Akash3121\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
