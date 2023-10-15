@@ -66,18 +66,3 @@ Assignment 2 - updates:
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 
-
-Grabbable & Throwable objects:
-Rocks:
-    1) Rock Type2 03
-    2) Rock Type1 04
-    3) Rock Type2 04
-    4) Rock Type6 04
-    5) Stump_01
-Grabbable only objects:
-These animals will stay in the sky until you put them down(i.e., they donot have gravity to fall on ground once you release the trigger)
-Animals:
-    1) SK_Sheep_white
-    2) SK_Sheep_dark
-    3) SK_Sheep_dark (1)
-    4) SK_Sheep_cream
