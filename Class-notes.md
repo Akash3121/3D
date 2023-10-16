@@ -52,14 +52,3 @@ Creating a Light Saber, in Unity.
 In assignment add sound/audio when cube destroys, 
     Prof suggested to try the sound effect on the blade.
 
-
-Assignment 2 - updates: 
-6 unique objects:
-1-done
-2-min 6 unique objects
-	3objs interactable
-3-done added sky
-4-Rhandanchordone
-	do lefthandcontroller
-5-3objects needs to be grabbable
-
