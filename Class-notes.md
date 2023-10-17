@@ -69,3 +69,6 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 
 **Enhancements**
 - Absolute and relative - on thursday go through this.
+<hr>
+
+
