@@ -62,3 +62,7 @@ Continuation of Metophors:
 
 Problem of precision => **Image plane pointing**, where ray comes from head and we point with the index and middle finger by pinching.
 
+**Aperture selection**: It's like cone
+
+
+
