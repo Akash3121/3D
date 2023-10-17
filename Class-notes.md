@@ -89,3 +89,9 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 - Voodoo Dolls: moving the doll in physical world then object resembles and moves in virtual world.
 - widget techniques: 
 
+## Bimanual
+
+5th in metaphors
+
+
+
