@@ -85,3 +85,4 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 4th in metoaphors
 
 - virtual pad: 
+- proxy technique: world-in-miniature (WIM): 
