@@ -95,7 +95,7 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 
 uses 2 controllers
 
-- both these can be symme
+- both these can be symmetric and non symmetric...
 
 users typically have dominat and non dominant hand, fine precision adjustments needs to give to the dominant hand
 
