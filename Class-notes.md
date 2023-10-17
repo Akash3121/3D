@@ -79,3 +79,7 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 - baloon selection: most common one, pointing on seuface on virtual env, 1finger is static and other finger moves to increase the height and other finger or a click to select/de-select
 - cork skrew widget: 
 - Triangle Cursor: putting 2 fingers index and thumb on screen, pulling them close decreases the height and viceversa
+
+## Indirect 
+
+4th in metoaphors
