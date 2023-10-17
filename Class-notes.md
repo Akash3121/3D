@@ -64,5 +64,5 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 
 **Aperture selection**: It's like cone
 
-
+**Expand** - technique useful in dense environment and 
 
