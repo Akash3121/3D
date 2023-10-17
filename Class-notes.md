@@ -78,4 +78,4 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 - void shadows:  
 - baloon selection: most common one, pointing on seuface on virtual env, 1finger is static and other finger moves to increase the object size
 - cork skrew widget: 
-
+- Triangle Cursor: 
