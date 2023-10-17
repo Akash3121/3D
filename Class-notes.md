@@ -53,11 +53,12 @@ In assignment add sound/audio when cube destroys,
     Prof suggested to try the sound effect on the blade.
 
 **Date: 10/17/2023 Tuesday**
+
 Class
 
 Continuation of Metophors:
 2nd metaphor - Pointing
-- Ray casting i smost common means when we point controller, a laser pointing towards the side, we are pointing.
+- **Ray casting** i smost common means when we point controller, a laser pointing towards the side, we are pointing.
 
-Problem of precision => Image plane pointing, where ray comes from head and we point with the index and middle finger by pinching.
+Problem of precision => **Image plane pointing**, where ray comes from head and we point with the index and middle finger by pinching.
 
