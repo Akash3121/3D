@@ -55,3 +55,5 @@ In assignment add sound/audio when cube destroys,
 **Date: 10/17/2023 Tuesday**
 Class
 
+Continuation of Metophors:
+2nd metaphor - Pointing
