@@ -104,7 +104,9 @@ users typically have dominat and non dominant hand, fine precision adjustments n
 - Interaction based spatial interaction for two hands (ISIth): mid point of the rays from controllers, can select the oject.
 
 - Assymetric Bimanual techniques:
-    - - Spindle + Wheel: 
-    - - flexible pointer: Bezeir curve - rotate one controller to move the curve
-    
+    -  Spindle + Wheel: 
+    -  flexible pointer: Bezeir curve - rotate one controller to move the curve
+
+
+**Bimanual Volumetric Selection** 
 
