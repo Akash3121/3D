@@ -101,3 +101,7 @@ users typically have dominat and non dominant hand, fine precision adjustments n
 
 - Spindle: 2 6DOF controllers, you masy use it for scaling advantage.
 
+- Interaction based spatial interaction for two hands (ISIth): mid point of the rays from controllers, can select the oject.
+
+- 
+
