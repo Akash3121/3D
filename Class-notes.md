@@ -86,3 +86,4 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 
 - virtual pad: 
 - proxy technique: world-in-miniature (WIM): 
+- Voodoo Dolls: moving the doll in physical world then object resembles and moves in virtual world.
