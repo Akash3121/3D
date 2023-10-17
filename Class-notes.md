@@ -67,5 +67,5 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 **Expand** - technique useful in dense environment and not much precision.
 - non isomorphic 
 
-
-
+**Enhancements**
+- Absolute and relative - on thursday go through this.
