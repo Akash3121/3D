@@ -34,7 +34,7 @@ Classification by Task Decomposition:
 Classification Metaphors:
 - Grasping - selecting 
 
-Grasping - Go-Go Technique
+Grasping - Go-Go Technique {physically grabbing}
     Inspector gadget - old american cartoon - gogo gadget
     This is an arm extension technique.
     Ex: Hand moves in the 3D to far to get an object, in physical world user needs not to move that distance to get the object, only the hand moves, it's like an hand extension.
@@ -51,4 +51,7 @@ Creating a Light Saber, in Unity.
 
 In assignment add sound/audio when cube destroys, 
     Prof suggested to try the sound effect on the blade.
+
+**Date: 10/17/2023 Tuesday**
+Class
 
