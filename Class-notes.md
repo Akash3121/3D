@@ -105,5 +105,6 @@ users typically have dominat and non dominant hand, fine precision adjustments n
 
 - Assymetric Bimanual techniques:
     - - Spindle + Wheel: 
-    - - flexible pointer: 
+    - - flexible pointer: Bezeir curve - rotate one controller to move the curve
+    
 
