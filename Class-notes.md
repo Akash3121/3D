@@ -60,3 +60,4 @@ Continuation of Metophors:
 - Ray casting i smost common means when we point controller, a laser pointing towards the side, we are pointing.
 
 Problem of precision => Image plane pointing, where ray comes from head and we point with the index and middle finger by pinching.
+
