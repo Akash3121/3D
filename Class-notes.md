@@ -99,3 +99,5 @@ uses 2 controllers
 
 users typically have dominat and non dominant hand, fine precision adjustments needs to give to the dominant hand
 
+- Spindle: 2 6DOF controllers, you masy use it for scaling advantage.
+
