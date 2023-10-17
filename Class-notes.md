@@ -110,3 +110,7 @@ users typically have dominat and non dominant hand, fine precision adjustments n
 
 **Bimanual Volumetric Selection** 
 
+## Hybrid
+
+last in metaphors
+
