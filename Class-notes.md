@@ -114,3 +114,5 @@ users typically have dominat and non dominant hand, fine precision adjustments n
 
 last in metaphors
 
+- HOMER: 
+- scaled world grab: 
