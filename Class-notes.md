@@ -57,3 +57,4 @@ Class
 
 Continuation of Metophors:
 2nd metaphor - Pointing
+- Ray casting i smost common means when we point controller, a laser pointing towards the side, we are pointing.
