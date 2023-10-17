@@ -83,3 +83,5 @@ Problem of precision => **Image plane pointing**, where ray comes from head and 
 ## Indirect 
 
 4th in metoaphors
+
+- virtual pad: 
