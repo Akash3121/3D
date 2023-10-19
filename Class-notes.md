@@ -120,3 +120,5 @@ last in metaphors
 **Date: 10/19/2023 Thursday**
 
 Lab: watch recording 
+
+Laser pointing and selecting.
