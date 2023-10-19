@@ -119,4 +119,4 @@ last in metaphors
 
 **Date: 10/19/2023 Thursday**
 
-Lab
+Lab: watch recording 
