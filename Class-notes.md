@@ -121,4 +121,4 @@ last in metaphors
 
 Lab: watch recording 
 
-Laser pointing and selecting.
+Laser pointing and selecting. 
