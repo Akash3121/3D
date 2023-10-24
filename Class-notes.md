@@ -148,4 +148,6 @@ Locomotion Metaphors:
 
 Full Gait technique:
 
-Real-walking 
+Real-walking
+
+scaled-walking
