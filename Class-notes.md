@@ -164,3 +164,5 @@ Partial Gait Techniques:
     - tapping in place
 
 - Arm-Based Walking-in-place
+
+- Human Joystick
