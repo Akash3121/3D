@@ -172,3 +172,5 @@ Gait Negation Technique:
 - Treadmill Technique
 
 - Passive Omnidirection Treadmill
+
+- Low Friction Surfaces
