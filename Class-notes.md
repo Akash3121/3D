@@ -151,3 +151,7 @@ Full Gait technique:
 Real-walking
 
 scaled-walking
+
+Visual Dominance
+
+Redirected Walking
