@@ -157,3 +157,8 @@ Full Gait technique:
 -   Redirected Walking
 
 Partial Gait Techniques:
+
+-   walking in place varienta
+        - marching in place (commonly used)
+        - swinging in place (never seen in actual applications)
+        - tapping in place
