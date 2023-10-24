@@ -145,3 +145,6 @@ Locomotion parameters:
 Locomotion Metaphors:
 
 **Walking**
+
+Full Gait technique:
+
