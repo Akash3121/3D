@@ -170,3 +170,5 @@ Partial Gait Techniques:
 Gait Negation Technique:
 
 - Treadmill Technique
+
+- Passive Omnidirection Treadmill
