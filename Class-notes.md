@@ -141,3 +141,5 @@ Search
     - Naive: 
 
 Locomotion parameters:
+
+Locomotion Metaphors:
