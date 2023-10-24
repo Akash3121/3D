@@ -144,7 +144,7 @@ Locomotion parameters:
 
 Locomotion Metaphors:
 
-**Walking**
+**Walking** #1
 
 Full Gait technique:
 
@@ -176,3 +176,5 @@ Gait Negation Technique:
 - Low Friction Surfaces - skyrim game ig in the video
 
 - Step-Based Devices
+
+Steering #2 in next week
