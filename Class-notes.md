@@ -168,3 +168,5 @@ Partial Gait Techniques:
 - Human Joystick
 
 Gait Negation Technique:
+
+- Treadmill Technique
