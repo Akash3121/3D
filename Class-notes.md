@@ -158,7 +158,7 @@ Full Gait technique:
 
 Partial Gait Techniques:
 
--   walking in place varienta
+-   walking in place varienta (dont get as uch as head movement)
     - marching in place (commonly used)
     - swinging in place (never seen in actual applications)
     - tapping in place
