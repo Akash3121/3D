@@ -127,7 +127,7 @@ Add music to the Beat saber project, which is due on the coming Thursday.
 
 **Date: 10/24/2023 Tuesday**
 
-Class
+Class topic is navigation
 
 Expained/discussed Quiz 3
 
