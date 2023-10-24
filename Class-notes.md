@@ -173,4 +173,4 @@ Gait Negation Technique:
 
 - Passive Omnidirection Treadmill
 
-- Low Friction Surfaces
+- Low Friction Surfaces - skyrim game ig in the video
