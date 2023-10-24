@@ -162,3 +162,5 @@ Partial Gait Techniques:
     - marching in place (commonly used)
     - swinging in place (never seen in actual applications)
     - tapping in place
+
+- Arm-Based Walking-in-place
