@@ -148,10 +148,10 @@ Locomotion Metaphors:
 
 Full Gait technique:
 
-Real-walking
+-   Real-walking
 
-scaled-walking
+-   scaled-walking
 
-Visual Dominance
+-   Visual Dominance
 
-Redirected Walking
+-   Redirected Walking
