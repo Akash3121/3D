@@ -155,3 +155,5 @@ Full Gait technique:
 -   Visual Dominance
 
 -   Redirected Walking
+
+Partial Gait Techniques:
