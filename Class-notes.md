@@ -166,3 +166,5 @@ Partial Gait Techniques:
 - Arm-Based Walking-in-place
 
 - Human Joystick
+
+Gait Negation Technique:
