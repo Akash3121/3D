@@ -239,4 +239,6 @@ Design considerations:
     - turning: 
     - vertical locomotion
     - multiple locomotion modes
-    
+
+components of navigation:
+- wayfinding
