@@ -251,4 +251,7 @@ wayfinding cues:
 - user-centered wayfinding cues
     - 
 - environment-centered wayfinding cues
-    -
+    
+environment legibility
+
+wayfinding aids
