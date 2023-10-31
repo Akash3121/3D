@@ -244,3 +244,11 @@ components of navigation:
 - wayfinding
 
 - landmark knowledge
+
+- survey knowledge - cardnial system of direction like N, E, W, S
+
+wayfinding cues:
+- user-centered wayfinding cues
+    - 
+- environment-centered wayfinding cues
+    -
