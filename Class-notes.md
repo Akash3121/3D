@@ -201,3 +201,5 @@ Selection-based locomotion
     - teleportation: {final programming assignment}
         - implemented using parabolic arc
         - rapid transition
+        ex: some game: pointing in somedirection moves the player
+        - teleportation with direction specific - orientation also changing with something like joystick 
