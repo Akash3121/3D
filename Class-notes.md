@@ -195,3 +195,5 @@ walking vs steering
 - spatial awareness task
 
 Iowa bicycle simulator example
+
+Selection-based locomotion
