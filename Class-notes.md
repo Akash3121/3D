@@ -197,3 +197,5 @@ walking vs steering
 Iowa bicycle simulator example
 
 Selection-based locomotion
+1. target based
+    - teleportation: 
