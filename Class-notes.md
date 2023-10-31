@@ -233,3 +233,6 @@ Hybrid techniques
     - benefit walking for maneuvering task
 - chaperones/ guardians
     - mesh like structure when we are almost in the end of the pay area
+
+Design considerations:
+    - velocity changing
