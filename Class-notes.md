@@ -255,3 +255,5 @@ wayfinding cues:
 environment legibility
 
 wayfinding aids
+
+maps and compass
