@@ -190,3 +190,5 @@ Lecture - 14
 class
 
 lean-direction: penguFly example
+
+walking vs steering
