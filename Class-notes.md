@@ -230,3 +230,6 @@ world manipulation
 Hybrid techniques
 - room-scale VR
     - mostly used in oculus like selection play area
+    - benefit walking for maneuvering task
+- chaperones/ guardians
+    - mesh like structure when we are almost in the end of the pay area
