@@ -206,4 +206,5 @@ Selection-based locomotion
     - dual-target techniques
         - zoomback
     - representation-based techniques
-        
+
+    - path drawing
