@@ -236,3 +236,4 @@ Hybrid techniques
 
 Design considerations:
     - velocity changing
+    - turning: 
