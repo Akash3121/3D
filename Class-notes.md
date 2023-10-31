@@ -215,6 +215,10 @@ Locomotion metaphors
 
 Manipulation-based locomotion
 view point manipulation
-1. 
+1. camera manipulation
+    - 
+2. avatar manipulation
+
+3. fixed object manipulation
 
 world manipulation
