@@ -224,4 +224,4 @@ view point manipulation
 world manipulation
 1. single point world manipulation
 
-2. dual
+2. dual point world manipulation
