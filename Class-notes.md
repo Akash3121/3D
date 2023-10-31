@@ -203,3 +203,5 @@ Selection-based locomotion
         - rapid transition
         ex: some game: pointing in somedirection moves the player
         - teleportation with direction specific - orientation also changing with something like joystick 
+    - dual-target techniques
+        - zoomback
