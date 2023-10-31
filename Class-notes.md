@@ -188,3 +188,5 @@ Lecture - 14
 **Date: 10/31/2023 Tuesday**
 
 class
+
+lean-direction: penguFly example
