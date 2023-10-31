@@ -237,3 +237,6 @@ Hybrid techniques
 Design considerations:
     - velocity changing
     - turning: 
+    - vertical locomotion
+    - multiple locomotion modes
+    
