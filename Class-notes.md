@@ -242,3 +242,5 @@ Design considerations:
 
 components of navigation:
 - wayfinding
+
+- landmark knowledge
