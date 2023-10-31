@@ -184,3 +184,5 @@ Steering #2 in next week
 Lab
 
 Lecture - 14
+
+**Date: 10/31/2023 Tuesday**
