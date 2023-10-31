@@ -205,3 +205,5 @@ Selection-based locomotion
         - teleportation with direction specific - orientation also changing with something like joystick 
     - dual-target techniques
         - zoomback
+    - representation-based techniques
+        
