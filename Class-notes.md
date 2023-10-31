@@ -198,4 +198,6 @@ Iowa bicycle simulator example
 
 Selection-based locomotion
 1. target based
-    - teleportation: 
+    - teleportation: {final programming assignment}
+        - implemented using parabolic arc
+        - rapid transition
