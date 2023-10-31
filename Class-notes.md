@@ -193,3 +193,5 @@ lean-direction: penguFly example
 
 walking vs steering
 - spatial awareness task
+
+Iowa bicycle simulator example
