@@ -222,3 +222,6 @@ view point manipulation
 3. fixed object manipulation
 
 world manipulation
+1. single point world manipulation
+
+2. dual
