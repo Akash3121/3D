@@ -213,3 +213,8 @@ Selection-based locomotion
 
 Locomotion metaphors
 
+Manipulation-based locomotion
+view point manipulation
+1. 
+
+world manipulation
