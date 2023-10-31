@@ -210,3 +210,6 @@ Selection-based locomotion
 1. path drawing
 
 1. marking points: easier variation than path drawing
+
+Locomotion metaphors
+
