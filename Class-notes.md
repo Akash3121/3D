@@ -225,3 +225,8 @@ world manipulation
 1. single point world manipulation
 
 2. dual point world manipulation
+
+
+Hybrid techniques
+- room-scale VR
+    - mostly used in oculus like selection play area
