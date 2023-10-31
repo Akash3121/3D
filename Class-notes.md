@@ -203,8 +203,10 @@ Selection-based locomotion
         - rapid transition
         ex: some game: pointing in somedirection moves the player
         - teleportation with direction specific - orientation also changing with something like joystick 
-    - dual-target techniques
+1. dual-target techniques
         - zoomback
-    - representation-based techniques
+1. representation-based techniques
 
-    - path drawing
+1. path drawing
+
+1. marking points: easier variation than path drawing
