@@ -262,3 +262,4 @@ maps and compass
 
 Lab
 
+Snap turning implementation to reduce sickness
