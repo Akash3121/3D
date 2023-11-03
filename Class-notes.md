@@ -263,3 +263,5 @@ maps and compass
 Lab
 
 Snap turning implementation to reduce sickness
+
+No Quiz this week
