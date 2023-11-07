@@ -288,3 +288,7 @@ rotating body in opposite direction
 
 psychometric Techniques:
 
+Redirected Walking Algorithm Continuum:
+
+
+Dynamic path planing algorithm:
