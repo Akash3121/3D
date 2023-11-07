@@ -273,4 +273,10 @@ Class - Redirected walking
 Natural Locomotion - we can't physically have that much space for walking an entire builing in VR, so we need Redirected walking
 
 Translation Gain:
+
 If walking in physical world is 1m then walking in virtual world is 2m, like wise
+
+Rotation Gain:
+
+Hardest thing - congnotively seperating physical and virtual world/representations
+
