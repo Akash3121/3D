@@ -282,3 +282,6 @@ if rotatied 180deg in physical world then rotate 360deg in virtual world
 
 Hardest thing - congnotively seperating physical and virtual world/representations
 
+Curvature Gain:
+
+rotating body in opposite direction
