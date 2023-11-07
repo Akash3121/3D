@@ -267,3 +267,5 @@ Snap turning implementation to reduce sickness
 No Quiz this week, Assignment 4 due on Next week Thursday
 
 **Date: 11/07/2023 Tuesday**
+
+Class
