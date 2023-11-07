@@ -276,7 +276,9 @@ Translation Gain:
 
 If walking in physical world is 1m then walking in virtual world is 2m, like wise
 
-Rotation Gain:
+Rotation Gain: Amplyfying rotation
+
+if rotatied 180deg in physical world then rotate 360deg in virtual world
 
 Hardest thing - congnotively seperating physical and virtual world/representations
 
