@@ -269,3 +269,5 @@ No Quiz this week, Assignment 4 due on Next week Thursday
 **Date: 11/07/2023 Tuesday**
 
 Class - Redirected walking
+
+Natural Locomotion - we can't physically have that much space for walking an entire builing in VR, so we need Redirected walking
