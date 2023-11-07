@@ -274,7 +274,7 @@ Natural Locomotion - we can't physically have that much space for walking an ent
 
 Translation Gain:
 
-If walking in physical world is 1m then walking in virtual world is 2m, like wise
+If walking in physical world is 1m then walking in virtual world is 2m, like wise 
 
 Rotation Gain: Amplyfying rotation
 
