@@ -293,3 +293,7 @@ Redirected Walking Algorithm Continuum:
 Dynamic path planing algorithm:
 
 Static Path Planning Algorithms:
+
+Environment Alignment:
+
+Change blindness redirection:
