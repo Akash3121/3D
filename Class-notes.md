@@ -285,3 +285,6 @@ Hardest thing - congnotively seperating physical and virtual world/representatio
 Curvature Gain:
 
 rotating body in opposite direction
+
+psychometric Techniques:
+
