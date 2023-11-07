@@ -290,5 +290,4 @@ psychometric Techniques:
 
 Redirected Walking Algorithm Continuum:
 
-
 Dynamic path planing algorithm:
