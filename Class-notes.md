@@ -292,4 +292,4 @@ Redirected Walking Algorithm Continuum:
 
 Dynamic path planing algorithm:
 
-Statuc Path Planning Algorithms:
+Static Path Planning Algorithms:
