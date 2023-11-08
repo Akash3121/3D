@@ -297,4 +297,3 @@ Static Path Planning Algorithms:
 Environment Alignment:
 
 Change blindness redirection:
-
