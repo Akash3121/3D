@@ -310,4 +310,8 @@ Types
 
 3rd question: Description
 
-4th question: 
+4th question: whats required to accomplish
+
+5th question: how it should be evaluated, like milestones
+
+3DUI contest
