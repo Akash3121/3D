@@ -298,5 +298,6 @@ Environment Alignment:
 
 Change blindness redirection:
 
-
+**Date: 11/09/2023 Thursday**
+Project Proposal
 1) Application based project
