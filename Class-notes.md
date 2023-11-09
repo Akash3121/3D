@@ -300,5 +300,8 @@ Change blindness redirection:
 
 **Date: 11/09/2023 Thursday**
 
-Project Proposal
+Project Proposal:
+
+Types
+
 1) Application based project
