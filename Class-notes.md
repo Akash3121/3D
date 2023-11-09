@@ -314,4 +314,6 @@ Types
 
 5th question: how it should be evaluated, like milestones
 
-3DUI contest
+3DUI contest 
+
+Check in this for the old conferences for project Ideas
