@@ -305,3 +305,5 @@ Project Proposal:
 Types
 
 1) Application based project
+
+2) Interaction based - designing a new technique or implementing complex from research paper
