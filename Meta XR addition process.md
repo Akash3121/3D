@@ -9,3 +9,6 @@ Goto Windows tab > package manager > click on + and add package tarball
 Navigate to the file in downloads, then it will install this to the project.
 
 you need to do it for every project manually
+
+got to oculus > meta xr simulator > activate 
+![Alt text](image-2.png)
