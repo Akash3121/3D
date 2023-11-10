@@ -317,3 +317,5 @@ Types
 3DUI contest 
 
 Check in this for the old conferences for project Ideas
+
+We decided as now as VR Racing game
