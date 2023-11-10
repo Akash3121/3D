@@ -185,6 +185,8 @@ Lab
 
 Lecture - 14
 
+![Alt text](Lecture-14.png)
+
 **Date: 10/31/2023 Tuesday**
 
 class
