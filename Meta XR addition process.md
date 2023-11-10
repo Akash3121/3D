@@ -5,3 +5,4 @@ Routes to some web page, you can see some download, see below image:
 Then it will be in downloads.
 
 Goto Windows tab > package manager > click on + and add package tarball
+![Alt text](image-1.png)
