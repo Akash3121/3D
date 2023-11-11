@@ -187,6 +187,8 @@ Lecture - 14
 
 ![Alt text](Lecture-14.png)
 
+Watched till 22:41
+
 **Date: 10/31/2023 Tuesday**
 
 class
