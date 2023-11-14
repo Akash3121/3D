@@ -361,7 +361,8 @@ public class ReachingController : MonoBehaviour
     }
 }
 Process for this **Reach Controller**:
-
+- uncheck the ovr controller prefab which is under the right controller anchor
+- create an empty gameobject - rename it to VirtualControllerAnchor
 
 No Quiz this week, Assignment 4 due on Next week Thursday
 
