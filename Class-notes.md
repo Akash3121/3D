@@ -429,3 +429,9 @@ Quiz 4 discussion
 Class: System control part - 1
 
 Human factors: perceptual issues
+
+screen door effect
+
+Human factors: cognitive issues
+
+Human factors: Ergonomic Issues
