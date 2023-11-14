@@ -427,3 +427,5 @@ We decided as now as VR Racing game
 Quiz 4 discussion
 
 Class: System control part - 1
+
+Human factors: perceptual issues
