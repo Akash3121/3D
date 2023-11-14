@@ -423,3 +423,7 @@ Check in this for the old conferences for project Ideas
 We decided as now as VR Racing game
 
 **Date: 11/14/2023 Tuesday**
+
+Quiz 4 discussion
+
+Class: System control part - 1
