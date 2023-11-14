@@ -268,6 +268,101 @@ Lab
 
 Snap turning implementation to reduce sickness
 
+Lecture - 16
+
+Depth Ray and Reach Controlling.
+
+using System.Collections;
+using System.Collections.Generic;
+// using UnityEditor.UI;
+using UnityEngine;
+
+public class LaserSelector : MonoBehaviour
+{
+
+    public Material laserMaterial;
+    public Material indicationMaterial;
+    public Material activationMaterial;
+
+    public float vibrationTime = 0.5f;
+
+    public GameObject selectionSphere;
+    public float sphereSpeed = 5.0f;
+
+    private LineRenderer lineRenderer;
+    private GameObject indicatedGameObject = null;
+    private Material tmpMaterial;
+
+    private bool vibrating = false;
+    private float elapsedVibrationTime = 0.0f;
+
+    private GameObject selectedGameObject = null;
+
+    private float selectionRadius = 0.0f;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        lineRenderer = GetComponent<LineRenderer>();
+        lineRenderer.material = laserMaterial;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+        Vector3 sphereTranslation = new Vector3(0.0f, 0.0f, OVRInput.Get(OVRInput.RawAxis2D.RThumbstick).y * sphereSpeed * Time.deltaTime);
+        selectionSphere.transform.Translate(sphereTranslation, Space.Self);
+
+        if (selectionSphere.transform.localPosition.z < 0.0f)
+        {
+            selectionSphere.transform.localPosition = Vector3.zero;
+        }
+
+        lineRenderer.SetPosition(0, transform.position);
+        lineRenderer.SetPosition(1, transform.position + transform.forward * 100f);
+    }
+}
+
+### Reach Controller script
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ReachingController : MonoBehaviour
+{
+    public float gain = 1.0f;
+    public Transform physicalController;
+
+    private Vector3 physicalLastPos;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        physicalLastPos = physicalController.position;
+        transform.position = physicalController.position;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        // transform.position = physicalController.position;
+        Vector3 physicalControllerChange = physicalController.position - physicalLastPos;
+
+        transform.Translate(physicalControllerChange * gain, Space.World);
+
+        if (OVRInput.Get(OVRInput.RawButton.A))
+        {
+            transform.position = physicalController.position;
+        }
+
+        transform.rotation = physicalController.rotation;
+        physicalLastPos = physicalController.position;
+    }
+}
+Process for this **Reach Controller**:
+
+
 No Quiz this week, Assignment 4 due on Next week Thursday
 
 **Date: 11/07/2023 Tuesday**
