@@ -452,3 +452,6 @@ ex: SimSensei human interaction
 
 #### Gestural Commands
 
+Posture: a static configuration of the hand
+
+Gesture: moving hand to make a symbol or a letter
