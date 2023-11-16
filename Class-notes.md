@@ -455,3 +455,6 @@ ex: SimSensei human interaction
 Posture: a static configuration of the hand
 
 Gesture: moving hand to make a symbol or a letter
+
+Ex: VR + Kinect 
+-- putting long gestures is a very bad idea
