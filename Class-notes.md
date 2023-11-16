@@ -471,3 +471,5 @@ hololens for multimodal input
 #### System Control Design Guidelines
 
 - see the PPT
+
+Today is the submission for Assignment - 4 and Project Proposal
