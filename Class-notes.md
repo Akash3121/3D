@@ -465,3 +465,5 @@ Ex: VR + Kinect
 Reactable eg
 
 #### Multimodal Techniques
+
+hololens for multimodal input
