@@ -457,4 +457,4 @@ Posture: a static configuration of the hand
 Gesture: moving hand to make a symbol or a letter
 
 Ex: VR + Kinect 
--- putting long gestures is a very bad idea
+-- putting long gestures is a very bad idea (did a task like holding hands for a minute, it started paining)
