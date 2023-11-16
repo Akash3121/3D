@@ -470,4 +470,4 @@ hololens for multimodal input
 
 #### System Control Design Guidelines
 
-- 
+- see the PPT
