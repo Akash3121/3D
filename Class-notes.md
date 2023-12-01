@@ -473,4 +473,3 @@ hololens for multimodal input
 - see the PPT
 
 Today is the submission for Assignment - 4 and Project Proposal
-
