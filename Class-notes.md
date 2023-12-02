@@ -473,3 +473,7 @@ hololens for multimodal input
 - see the PPT
 
 Today is the submission for Assignment - 4 and Project Proposal
+
+**Date: 11/21/2023 Tuesday**
+
+Just a discussion class as from tomorrow is a Thanksgiving holidays
