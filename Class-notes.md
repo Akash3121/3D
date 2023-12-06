@@ -485,3 +485,6 @@ Thanksgiving holiday
 **Date: 11/28/2023 Tuesday** 
 
 Lab - I missed this
+
+**Date: 11/30/2023 Thursday**
+
