@@ -490,3 +490,6 @@ Lab - I missed this
 
 Class cancelled as Jerald feeling unwell
 
+**Date: 12/5/2023 Tuesday**
+
+No class - but told us to watch one youtube video
