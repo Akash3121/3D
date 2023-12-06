@@ -477,3 +477,5 @@ Today is the submission for Assignment - 4 and Project Proposal
 **Date: 11/21/2023 Tuesday**
 
 Just a discussion class as from tomorrow is a Thanksgiving holidays
+
+**Date: 11/23/2023 Thursday** 
