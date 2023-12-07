@@ -521,4 +521,4 @@ Inventing 3DUI's:
 
 1. FOrmative evaluation
 
-2. sum
+2. Summative Evaluation
