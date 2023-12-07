@@ -493,3 +493,7 @@ Class cancelled as Jerald feeling unwell
 **Date: 12/5/2023 Tuesday**
 
 No class - but told us to watch one youtube video https://www.youtube.com/watch?v=DDfYKlHRSsw
+
+**Date: 12/7/2023 Thursday**
+
+Class
