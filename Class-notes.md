@@ -509,4 +509,6 @@ Constraints in 3DUIs
 
 Two handed 3DUIs
 
+User group considerations:
+
 Universal design - we can take a design an implement it should benefit every body.
