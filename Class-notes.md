@@ -494,6 +494,8 @@ Class cancelled as Jerald feeling unwell
 
 No class - but told us to watch one youtube video https://www.youtube.com/watch?v=DDfYKlHRSsw
 
+Always on AR
+
 **Date: 12/7/2023 Thursday**
 
 Class
