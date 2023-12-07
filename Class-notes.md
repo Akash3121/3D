@@ -514,3 +514,6 @@ User group considerations:
 Universal design - we can take a design an implement it should benefit every body.
 
 IPD - Iris Pupil Distance
+
+Inventing 3DUI's:
+
