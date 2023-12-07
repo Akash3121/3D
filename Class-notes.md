@@ -509,4 +509,4 @@ Constraints in 3DUIs
 
 Two handed 3DUIs
 
-Universal design - we can take a design an implement it should benefit every body
+Universal design - we can take a design an implement it should benefit every body.
