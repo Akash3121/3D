@@ -519,6 +519,6 @@ Inventing 3DUI's:
 
 3D Evaluations:
 
-1. FOrmative evaluation
+1. FOrmative Evaluation
 
 2. Summative Evaluation
