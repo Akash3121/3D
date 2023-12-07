@@ -501,3 +501,5 @@ Class
 last lecture - design 3DUI's for Humans
 
 Feedback Compliance
+
+Feedback Substition:
