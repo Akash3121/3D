@@ -497,3 +497,5 @@ No class - but told us to watch one youtube video https://www.youtube.com/watch?
 **Date: 12/7/2023 Thursday**
 
 Class
+
+last lecture
