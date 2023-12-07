@@ -498,4 +498,4 @@ No class - but told us to watch one youtube video https://www.youtube.com/watch?
 
 Class
 
-last lecture
+last lecture - design 3DUI's for Humans
