@@ -15,3 +15,5 @@ design, task & procedure:
 - degree of control as between-subject factor - divided into separate groups, and each group experiences a different level of control. one group might have a high degree of control, while another group has a low degree of control.
 
 - technique as within subject factor - participants are exposed to multiple techniques, and their responses are measured for each technique.
+
+**PRocedure**: 
