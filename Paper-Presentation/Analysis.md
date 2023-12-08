@@ -16,4 +16,11 @@ design, task & procedure:
 
 - technique as within subject factor - participants are exposed to multiple techniques, and their responses are measured for each technique.
 
-**PRocedure**: 
+**Procedure**: 
+
+
+**Results**
+The key findings were that there were no significant differences in VR sickness, presence, and workload among the techniques and control levels. However, both FOV reduction and DOF blurring resulted in some degree of information loss. The study suggests that frequent FOV changes and inappropriate DOF blurring levels can increase discomfort.
+
+
+I think study on only 32students so there is no significant difference in sickness, presence and workload
