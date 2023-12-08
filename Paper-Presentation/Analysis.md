@@ -1,0 +1,1 @@
+Influencing Factors: The study identifies that the nature of tasks and the design of Virtual Environments (VEs) are key factors influencing VR sickness levels. The interactivity between users and VEs and the degree of user control is a critical factor.
