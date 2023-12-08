@@ -1,6 +1,5 @@
 This research is the first to compare VR sickness, presence, workload
-to complete a search task, and information loss of these three VR sickness mitigation methods in a racing
-game with two levels of control. 
+to complete a search task, and information loss of these three VR sickness mitigation methods in a racing game with two levels of control. 
 
 **Influencing Factors:** The study identifies that the nature of tasks and the design of Virtual Environments (VEs) are key factors influencing VR sickness levels. The interactivity between users and VEs and the degree of user control is a critical factor.
 
