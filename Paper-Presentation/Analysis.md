@@ -2,7 +2,7 @@
 
 Conducted in FPP Racing game
 
-Method:
+**Method:**
 
 To find information loss, 60 balloons 3 sets 20 each 
 
